@@ -1,4 +1,4 @@
-*/.local
-*/.screenshots
-*/.settings
+**/.local
+**/.screenshots
+**/.settings
 */data
