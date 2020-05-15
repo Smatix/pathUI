@@ -1,2 +1,2 @@
 # pathUI
-University projects in path UI
+University projects in UI Path
